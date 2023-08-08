@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Argenova<br>🤝 I’m currently working position Backend<br>🌱 I’m currently learning Java Spring
+🔭 I’m currently working on Garanti Teknoloji<br>🤝 I’m currently working position Backend<br>🌱 I’m currently learning Java Spring
 
 
 ## 🌐 Socials:
